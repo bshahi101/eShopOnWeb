@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-bshahi
   LOCATION: australiaeast
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: e11e84e3-b08e-4df9-8afa-87afd68815b8
   WEBAPP-NAME: az400-webapp-bshahi
 
 
